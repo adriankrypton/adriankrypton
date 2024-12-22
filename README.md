@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Adrian 👋
 
-<!--
-**adriankrypton/adriankrypton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about working on projects that can be used and enjoyed by everyone. Feel free to explore the repositories, contribute, or just get inspired. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools I Love
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Next.js** - A React framework I enjoy working with.
+- **JavaScript/TypeScript** - For both front-end and back-end development.
+- **React** - One of my go-to libraries for building modern web applications.
+- **Node.js** - A powerful tool for building server-side applications.
+- **Telecommunications** - My professional field, I work in telecommunications to ensure better connectivity.
+- **Ubiquiti Hardware** - A huge fan of Ubiquiti for their innovative and reliable networking products! I've worked with their routers, switches, and Wi-Fi solutions to build scalable, efficient networks.
+
+## 🏙️ Where I Live
+
+I live in **Heilbronn, Germany**. If you ever visit, let's grab a coffee and talk tech!
+
+## 💬 Languages I Speak
+
+- **German** (Native)
+- **English** (Fluent)
+- **Russian** (Fluent)
+
+## 🌍 Internet Providers
+
+- **Home ISP**: **Deutsche GigaNetz** for high-speed internet at home.
+- **Mobile**: **Vodafone** for my mobile network needs.
+
+## 📬 Let's Connect
+
+Feel free to reach out to me for collaboration, ideas, or just to chat! You can connect with me via:
+
+- GitHub Issues or Pull Requests for project collaboration
+- Email: [Your Email Here]
+
+## 📚 Fun Fact
+
+When I'm not coding, I enjoy learning new things, improving my skills in the telecommunications industry, staying up-to-date with the latest in tech, and tinkering with Ubiquiti hardware for home and office networking!
