@@ -28,7 +28,7 @@ I live in **Heilbronn, Germany**. If you ever visit, let's grab a coffee and tal
 ## 📬 Let's Connect
 
 Feel free to reach out to me for collaboration, ideas, or just to chat through GitHub Issues or Pull Requests!  
-You can also add me on Discord: **222378323186024462**
+You can also add me on Discord: **einfachadrian**
 
 ## 🎶 Music I Love
 
@@ -36,6 +36,10 @@ When I'm not coding or working, you'll likely find me listening to **Tech House*
 
 - ![Tech House](https://upload.wikimedia.org/wikipedia/commons/7/7b/Techno_music_logo.svg)
 - ![Linkin Park](https://upload.wikimedia.org/wikipedia/commons/9/97/Linkin_Park_logo.svg)
+
+## 🎿 Fun Fact
+
+When I'm not coding or working, I enjoy skiing. It's one of my favorite activities to unwind and enjoy the outdoors!
 
 ## 📚 Fun Fact
 
