@@ -28,10 +28,12 @@ I live in **Heilbronn, Germany**. If you ever visit, let's grab a coffee and tal
 
 ## 📬 Let's Connect
 
-Feel free to reach out to me for collaboration, ideas, or just to chat! You can connect with me via:
+Feel free to reach out to me for collaboration, ideas, or just to chat through GitHub Issues or Pull Requests!  
+You can also add me on Discord: **222378323186024462**
 
-- GitHub Issues or Pull Requests for project collaboration
-- Email: [Your Email Here]
+## 🎶 Music I Love
+
+When I'm not coding or working, you'll likely find me listening to **Tech House** and **Linkin Park**. These two genres are my go-to for staying energized and inspired!
 
 ## 📚 Fun Fact
 
