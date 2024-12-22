@@ -4,12 +4,11 @@ Welcome to my GitHub! I'm passionate about working on projects that can be used 
 
 ## 🔧 Technologies & Tools I Love
 
-- **Next.js** - A React framework I enjoy working with.
-- **JavaScript/TypeScript** - For both front-end and back-end development.
-- **React** - One of my go-to libraries for building modern web applications.
-- **Node.js** - A powerful tool for building server-side applications.
-- **Telecommunications** - My professional field, I work in telecommunications to ensure better connectivity.
-- **Ubiquiti Hardware** - A huge fan of Ubiquiti for their innovative and reliable networking products! I've worked with their routers, switches, and Wi-Fi solutions to build scalable, efficient networks.
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=yellow)
+- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=green)
+- ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-000000?style=flat&logo=ubiquiti&logoColor=blue)
 
 ## 🏙️ Where I Live
 
@@ -23,8 +22,8 @@ I live in **Heilbronn, Germany**. If you ever visit, let's grab a coffee and tal
 
 ## 🌍 Internet Providers
 
-- **Home ISP**: **Deutsche GigaNetz** for high-speed internet at home.
-- **Mobile**: **Vodafone** for my mobile network needs.
+- **Home ISP**: ![Deutsche GigaNetz](https://upload.wikimedia.org/wikipedia/commons/9/99/Deutsche_Telekom_logo_2018.svg) **Deutsche GigaNetz** for high-speed internet at home.
+- **Mobile**: ![Vodafone](https://upload.wikimedia.org/wikipedia/commons/a/a9/Vodafone_logo_2019.svg) **Vodafone** for my mobile network needs.
 
 ## 📬 Let's Connect
 
@@ -34,6 +33,9 @@ You can also add me on Discord: **222378323186024462**
 ## 🎶 Music I Love
 
 When I'm not coding or working, you'll likely find me listening to **Tech House** and **Linkin Park**. These two genres are my go-to for staying energized and inspired!
+
+- ![Tech House](https://upload.wikimedia.org/wikipedia/commons/7/7b/Techno_music_logo.svg)
+- ![Linkin Park](https://upload.wikimedia.org/wikipedia/commons/9/97/Linkin_Park_logo.svg)
 
 ## 📚 Fun Fact
 
