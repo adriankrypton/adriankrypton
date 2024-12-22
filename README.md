@@ -22,8 +22,8 @@ I live in **Heilbronn, Germany**. If you ever visit, let's grab a coffee and tal
 
 ## 🌍 Internet Providers
 
-- **Home ISP**: ![Deutsche GigaNetz](https://upload.wikimedia.org/wikipedia/commons/9/99/Deutsche_Telekom_logo_2018.svg) **Deutsche GigaNetz** for high-speed internet at home.
-- **Mobile**: ![Vodafone](https://upload.wikimedia.org/wikipedia/commons/a/a9/Vodafone_logo_2019.svg) **Vodafone** for my mobile network needs.
+- **Home ISP**: **Deutsche GigaNetz** for high-speed internet at home.
+- **Mobile**: **Vodafone** for my mobile network needs.
 
 ## 📬 Let's Connect
 
