@@ -25,6 +25,12 @@ I live in **Heilbronn, Germany**. If you ever visit, let's grab a coffee and tal
 - **Home ISP**: **Deutsche GigaNetz** for high-speed internet at home.
 - **Mobile**: **Vodafone** for my mobile network needs.
 
+## 📝 Projects
+
+### [Russian Radio Browser](https://russianradio-browser.vercel.app/)
+
+A web app that allows you to listen to various Russian radio stations. It’s built with **Next.js** and offers an intuitive interface to browse and play your favorite Russian radio stations.
+
 ## 📬 Let's Connect
 
 Feel free to reach out to me for collaboration, ideas, or just to chat through GitHub Issues or Pull Requests!  
