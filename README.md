@@ -1,46 +1,56 @@
-# Hi, I'm Adrian 👋
+# Hi, ich bin Adrian 👋  
+Willkommen auf meinem GitHub! Ich arbeite leidenschaftlich gern an Projekten, die von allen genutzt und geschätzt werden können. Schau dich gerne um, bring dich ein oder lass dich einfach inspirieren.
 
-Welcome to my GitHub! I'm passionate about working on projects that can be used and enjoyed by everyone. Feel free to explore the repositories, contribute, or just get inspired. Here's a little about me:
+---
 
-## 🔧 Technologies & Tools I Love
+## 🔧 Technologien & Tools, die ich liebe und lerne  
+- Next.js  
+- JavaScript  
+- React  
+- Node.js  
+- TypeScript  
+- Lua
 
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=yellow)
-- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
-- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=green)
-- ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-000000?style=flat&logo=ubiquiti&logoColor=blue)
+---
 
-## 🏙️ Where I Live
+## 🏙️ Heimatort  
+Ich lebe in Heilbronn, Deutschland. Falls du mal in der Nähe bist – lass uns gerne auf einen Kaffee treffen und über Gott und die Welt sprechen!
 
-I live in **Heilbronn, Germany**. If you ever visit, let's grab a coffee and talk tech!
+---
 
-## 💬 Languages I Speak
+## 💬 Sprachen, die ich spreche  
+- Deutsch (Muttersprache)  
+- Englisch (fließend)  
+- Russisch (fließend)
 
-- **German** (Native)
-- **English** (Fluent)
-- **Russian** (Fluent)
+---
 
-## 🌍 Internet Providers
+## 🌍 Internetanbieter  
+- **Zuhause**: Deutsche GigaNetz – Highspeed-Internet für mein Homeoffice  
+- **Mobil**: Vodafone – zuverlässig unterwegs
 
-- **Home ISP**: **Deutsche GigaNetz** for high-speed internet at home.
-- **Mobile**: **Vodafone** for my mobile network needs.
+---
 
-## 📬 Let's Connect
+## 📬 Lass uns vernetzen  
+Du möchtest mit mir zusammenarbeiten, hast eine Idee oder willst einfach nur plaudern?  
+→ Schreib mir gerne über **GitHub Issues** oder **Pull Requests**.  
+→ Oder adde mich auf **Discord**: `einfachadrian`
 
-Feel free to reach out to me for collaboration, ideas, or just to chat through GitHub Issues or Pull Requests!  
-You can also add me on Discord: **einfachadrian**
+---
 
-## 🎶 Music I Love
+## 🎶 Musik, die mich inspiriert  
+Wenn ich mal nicht code oder arbeite, höre ich am liebsten:  
+- **Paul Kalkbrenner**  
+- **Linkin Park**  
+- **Armin van Buuren**  
+- **Phil Collins** – die guten Klassiker 😉
 
-When I'm not coding or working, you'll likely find me listening to **Tech House** and **Linkin Park**. These two genres are my go-to for staying energized and inspired!
+---
 
-- ![Tech House](https://upload.wikimedia.org/wikipedia/commons/7/7b/Techno_music_logo.svg)
-- ![Linkin Park](https://upload.wikimedia.org/wikipedia/commons/9/97/Linkin_Park_logo.svg)
+## 🎿 Fun Fact  
+Ich liebe **Skifahren** – es ist für mich der perfekte Ausgleich zur Bildschirmzeit und eine tolle Möglichkeit, die Natur zu genießen.
 
-## 🎿 Fun Fact
+---
 
-When I'm not coding or working, I enjoy skiing. It's one of my favorite activities to unwind and enjoy the outdoors!
-
-## 📚 Fun Fact
-
-When I'm not coding, I enjoy learning new things, improving my skills in the telecommunications industry, staying up-to-date with the latest in tech, and tinkering with Ubiquiti hardware for home and office networking!
+## 📚 Noch ein Fun Fact  
+Ich bilde mich regelmäßig weiter, besonders im Bereich **Telekommunikation**, und experimentiere gerne mit **Ubiquiti-Hardware** für Heim- und Büronetzwerke.
