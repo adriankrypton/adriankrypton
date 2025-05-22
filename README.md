@@ -49,6 +49,7 @@ Wenn ich mal nicht code oder arbeite, höre ich am liebsten:
 
 ## 🎿 Fun Fact  
 Ich liebe **Skifahren** – es ist für mich der perfekte Ausgleich zur Bildschirmzeit und eine tolle Möglichkeit, die Natur zu genießen.
+Und das am liebsten in Tirol & Südtirol <3
 
 ---
 
