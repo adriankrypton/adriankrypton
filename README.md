@@ -9,7 +9,7 @@ Willkommen auf meinem GitHub! Ich arbeite leidenschaftlich gern an Projekten, di
 - React  
 - Node.js  
 - TypeScript  
-- Lua
+- Svelte
 
 ---
 
@@ -21,20 +21,20 @@ Ich lebe in Heilbronn, Deutschland. Falls du mal in der Nähe bist – lass uns 
 ## 💬 Sprachen, die ich spreche  
 - Deutsch (Muttersprache)  
 - Englisch (fließend)  
-- Russisch (fließend)
+- Russisch (Grundkenntnise)
 
 ---
 
 ## 🌍 Internetanbieter  
 - **Zuhause**: Deutsche GigaNetz – Highspeed-Internet für mein Homeoffice  
-- **Mobil**: Vodafone – zuverlässig unterwegs
+- **Mobil**: Telekom – zuverlässig unterwegs
 
 ---
 
 ## 📬 Lass uns vernetzen  
 Du möchtest mit mir zusammenarbeiten, hast eine Idee oder willst einfach nur plaudern?  
 → Schreib mir gerne über **GitHub Issues** oder **Pull Requests**.  
-→ Oder adde mich auf **Discord**: `einfachadrian`
+→ Oder adde mich auf **Discord**: `1fachsolo`
 
 ---
 
